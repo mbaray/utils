@@ -11,5 +11,7 @@
             "email": "baraymasha@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "webmozart/assert": "^1.10"
+    }
 }
