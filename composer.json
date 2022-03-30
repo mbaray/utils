@@ -1,0 +1,15 @@
+{
+    "name": "mbaray/utils",
+    "autoload": {
+        "psr-4": {
+            "Mbaray\\Utils\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maria",
+            "email": "baraymasha@gmail.com"
+        }
+    ],
+    "require": {}
+}
